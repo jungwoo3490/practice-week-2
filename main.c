@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 
-int main(int a, int b) {
-	int result = a + b;
-	return result;
+int minus(int a, int b) {
+	return a - b;
 
+}
+
+int plus(int x, int y) {
+	return a + b;
 }
